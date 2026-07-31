@@ -1,4 +1,3 @@
-#include "PrimaryGenerator.cc"
 #include "PrimaryGenerator.hh"
 
 PrimaryGenerator::PrimaryGenerator()
